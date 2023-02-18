@@ -5,7 +5,7 @@ namespace HorseClubLibrary.Model;
 
 public class HorseClubDbContext : DbContext
 {
-    public HorseClubDbContext(DbContextOptions<HorseClubDbContext> options) 
+    public HorseClubDbContext(DbContextOptions<HorseClubDbContext> options)
         : base(options)
     {
     }
@@ -20,7 +20,7 @@ public class HorseClubDbContext : DbContext
         modelBuilder.Entity<Tours>().Property(p => p.Id).UseIdentityColumn();
         modelBuilder.Entity<Users>().Property(p => p.Id).UseIdentityColumn();
     }
-    
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         optionsBuilder.UseLazyLoadingProxies();

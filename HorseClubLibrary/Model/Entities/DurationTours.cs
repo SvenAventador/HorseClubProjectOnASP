@@ -9,7 +9,7 @@ public class DurationTours
     [Required]
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
     public int Id { get; set; }
-    
+
     [Required(ErrorMessage = "Данное поле должно быть заполненным!")]
     public string DurationName { get; set; }
 }

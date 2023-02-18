@@ -128,13 +128,18 @@
                             </label>
                             <select asp-for="vm.DurationId"
                                     class="form-control py-2 fs-5"
-                                    asp-items="@(new SelectList(ViewBag.ListofDuration, "Value", "Text"))"
+                                    asp-items="@(new SelectList(ViewBag.ListofDuration, 
+                                                   "Value", 
+                                                    "Text"))"
                                     name="durationId">
 
                             </select>
                         </div>
                     </div>
-                    <div class="modal-footer d-flex flex-column align-items-center">
+                    <div class="modal-footer 
+                                d-flex 
+                                flex-column 
+                                align-items-center">
                         <div class="row mx-5 text-center">
                             <button type="submit"
                                     id="updateData"

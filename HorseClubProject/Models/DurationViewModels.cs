@@ -1,6 +1,5 @@
 ﻿using System.ComponentModel;
 using HorseClubLibrary.Model.Entities;
-using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace HorseClubProject.Models;
 

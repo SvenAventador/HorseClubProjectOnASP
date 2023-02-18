@@ -13,14 +13,17 @@ public class AccountController : Controller
         _db = context;
     }
 
-    public IActionResult Account() => View();
+    public IActionResult Account()
+    {
+        return View();
+    }
 
     [HttpPost]
     public async Task<IActionResult> Login(string loginUser, string passwordUser)
     {
-        var user = 
-            await _db.Users.FirstOrDefaultAsync(x => x.LoginUser == loginUser && 
-                                                          x.PasswordUser == passwordUser);
+        var user =
+            await _db.Users.FirstOrDefaultAsync(x => x.LoginUser == loginUser &&
+                                                     x.PasswordUser == passwordUser);
 
         return user == null ? NotFound() : Redirect("/Admin/Admin");
     }

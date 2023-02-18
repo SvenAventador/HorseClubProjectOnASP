@@ -1,0 +1,22 @@
+﻿@model HorseClubLibrary.Model.ViewModel.OrderViewModel
+@{
+    ViewData["Title"] = "Admin Orders";
+}
+
+<table class="table">
+    @foreach (var item in Model.Orders)
+    {
+        <tr>
+            <td>№ @item.Id</td>
+            <td>@item.CustomerName</td>
+            <td>
+                <a href="tel:@item.CustoerPhone">
+                    @item.CustoerPhone
+                </a>
+            </td>
+            <td>@item.CustomerEmail</td>
+            <td>@item.Status.StatusName</td>
+            <td>@item.Tour.TourName</td>
+        </tr>
+    }
+</table>

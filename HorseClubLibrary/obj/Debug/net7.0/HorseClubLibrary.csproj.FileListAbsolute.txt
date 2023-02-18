@@ -1,0 +1,14 @@
+C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrary\bin\Debug\net7.0\HorseClubLibrary.deps.json
+C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrary\bin\Debug\net7.0\HorseClubLibrary.runtimeconfig.json
+C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrary\bin\Debug\net7.0\HorseClubLibrary.dll
+C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrary\bin\Debug\net7.0\HorseClubLibrary.pdb
+C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.csproj.AssemblyReference.cache
+C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.AssemblyInfoInputs.cache
+C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.AssemblyInfo.cs
+C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.dll
+C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrary\obj\Debug\net7.0\refint\HorseClubLibrary.dll
+C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.pdb
+C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.genruntimeconfig.cache
+C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrary\obj\Debug\net7.0\ref\HorseClubLibrary.dll

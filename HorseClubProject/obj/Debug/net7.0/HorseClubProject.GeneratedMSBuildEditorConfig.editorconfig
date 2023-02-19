@@ -9,69 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HorseClubProject
 build_property.RootNamespace = HorseClubProject
-build_property.ProjectDir = C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubProject\
+build_property.ProjectDir = C:\Users\mrron\Source\Repos\HorseClubProjectOnASP\HorseClubProject\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubProject
+build_property.MSBuildProjectDirectory = C:\Users\mrron\Source\Repos\HorseClubProjectOnASP\HorseClubProject
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/sasas/OneDrive/Рабочий стол/HorseClubProject/HorseClubProject/Views/Account/Account.cshtml]
+[C:/Users/mrron/Source/Repos/HorseClubProjectOnASP/HorseClubProject/Views/Account/Account.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2NvdW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sasas/OneDrive/Рабочий стол/HorseClubProject/HorseClubProject/Views/Admin/Admin.cshtml]
+[C:/Users/mrron/Source/Repos/HorseClubProjectOnASP/HorseClubProject/Views/Admin/Admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sasas/OneDrive/Рабочий стол/HorseClubProject/HorseClubProject/Views/Admin/Delete.cshtml]
+[C:/Users/mrron/Source/Repos/HorseClubProjectOnASP/HorseClubProject/Views/Admin/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sasas/OneDrive/Рабочий стол/HorseClubProject/HorseClubProject/Views/Admin/Edit.cshtml]
+[C:/Users/mrron/Source/Repos/HorseClubProjectOnASP/HorseClubProject/Views/Admin/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sasas/OneDrive/Рабочий стол/HorseClubProject/HorseClubProject/Views/Admin/SeeOrder.cshtml]
+[C:/Users/mrron/Source/Repos/HorseClubProjectOnASP/HorseClubProject/Views/Admin/SeeOrder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2VlT3JkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sasas/OneDrive/Рабочий стол/HorseClubProject/HorseClubProject/Views/Home/AboutUs.cshtml]
+[C:/Users/mrron/Source/Repos/HorseClubProjectOnASP/HorseClubProject/Views/Home/AboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sasas/OneDrive/Рабочий стол/HorseClubProject/HorseClubProject/Views/Home/Index.cshtml]
+[C:/Users/mrron/Source/Repos/HorseClubProjectOnASP/HorseClubProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sasas/OneDrive/Рабочий стол/HorseClubProject/HorseClubProject/Views/Home/Instructors.cshtml]
+[C:/Users/mrron/Source/Repos/HorseClubProjectOnASP/HorseClubProject/Views/Home/Instructors.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbnN0cnVjdG9ycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sasas/OneDrive/Рабочий стол/HorseClubProject/HorseClubProject/Views/Home/Photosession.cshtml]
+[C:/Users/mrron/Source/Repos/HorseClubProjectOnASP/HorseClubProject/Views/Home/Photosession.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQaG90b3Nlc3Npb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sasas/OneDrive/Рабочий стол/HorseClubProject/HorseClubProject/Views/Home/Tours.cshtml]
+[C:/Users/mrron/Source/Repos/HorseClubProjectOnASP/HorseClubProject/Views/Home/Tours.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUb3Vycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sasas/OneDrive/Рабочий стол/HorseClubProject/HorseClubProject/Views/Shared/Error.cshtml]
+[C:/Users/mrron/Source/Repos/HorseClubProjectOnASP/HorseClubProject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sasas/OneDrive/Рабочий стол/HorseClubProject/HorseClubProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/mrron/Source/Repos/HorseClubProjectOnASP/HorseClubProject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sasas/OneDrive/Рабочий стол/HorseClubProject/HorseClubProject/Views/_ViewImports.cshtml]
+[C:/Users/mrron/Source/Repos/HorseClubProjectOnASP/HorseClubProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sasas/OneDrive/Рабочий стол/HorseClubProject/HorseClubProject/Views/_ViewStart.cshtml]
+[C:/Users/mrron/Source/Repos/HorseClubProjectOnASP/HorseClubProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sasas/OneDrive/Рабочий стол/HorseClubProject/HorseClubProject/Views/Shared/_Layout.cshtml]
+[C:/Users/mrron/Source/Repos/HorseClubProjectOnASP/HorseClubProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-m9a1sip8qo

@@ -4,27 +4,27 @@
 }
 
 <div class="container">
-    <div class="row row-cols-4 row-cols-lg-4">
+    <div class="row row-cols-4 row-cols-lg-4 ">
         @foreach (var item in Model.Tours)
         {
             <div class="col my-4">
-                <div id="tourModal" class="card bg-light bg-opacity-50 p-3">
+                <div id="tourModal" class="card bg-light bg-opacity-50 p-3" style="height: 500px;">
 
                     <img src="~/Images/Tours/@item.TourImage"
                          class="card-img-top"
                          alt="@item.TourName">
 
                     <div class="card-body d-flex flex-column text-start">
-                        <h4 class="card-title text-dark">
+                        <h5 class="card-title text-dark">
                             @item.TourName
-                        </h4>
+                        </h5>
                         <h5 class="card-title text-dark">
                             @item.TourPrice
                         </h5>
                         <h5 class="card-title text-dark">
                             @item.DurationTour.DurationName
                         </h5>
-                        <a href="#" class="btn m-1 btn-outline-info"
+                        <a href="#" class="btn m-1 b-0 btn-outline-info"
                            onclick="showModal(@item.Id)"
                            data-bs-toggle="modal"
                            data-bs-target="#GetTour">

@@ -12,3 +12,17 @@ C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrar
 C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.pdb
 C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.genruntimeconfig.cache
 C:\Users\sasas\OneDrive\Рабочий стол\HorseClubProject\HorseClubLibrary\obj\Debug\net7.0\ref\HorseClubLibrary.dll
+C:\Users\mrron\Source\Repos\HorseClubProjectOnASP\HorseClubLibrary\bin\Debug\net7.0\HorseClubLibrary.deps.json
+C:\Users\mrron\Source\Repos\HorseClubProjectOnASP\HorseClubLibrary\bin\Debug\net7.0\HorseClubLibrary.runtimeconfig.json
+C:\Users\mrron\Source\Repos\HorseClubProjectOnASP\HorseClubLibrary\bin\Debug\net7.0\HorseClubLibrary.dll
+C:\Users\mrron\Source\Repos\HorseClubProjectOnASP\HorseClubLibrary\bin\Debug\net7.0\HorseClubLibrary.pdb
+C:\Users\mrron\Source\Repos\HorseClubProjectOnASP\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.csproj.AssemblyReference.cache
+C:\Users\mrron\Source\Repos\HorseClubProjectOnASP\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrron\Source\Repos\HorseClubProjectOnASP\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.AssemblyInfoInputs.cache
+C:\Users\mrron\Source\Repos\HorseClubProjectOnASP\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.AssemblyInfo.cs
+C:\Users\mrron\Source\Repos\HorseClubProjectOnASP\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mrron\Source\Repos\HorseClubProjectOnASP\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.dll
+C:\Users\mrron\Source\Repos\HorseClubProjectOnASP\HorseClubLibrary\obj\Debug\net7.0\refint\HorseClubLibrary.dll
+C:\Users\mrron\Source\Repos\HorseClubProjectOnASP\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.pdb
+C:\Users\mrron\Source\Repos\HorseClubProjectOnASP\HorseClubLibrary\obj\Debug\net7.0\HorseClubLibrary.genruntimeconfig.cache
+C:\Users\mrron\Source\Repos\HorseClubProjectOnASP\HorseClubLibrary\obj\Debug\net7.0\ref\HorseClubLibrary.dll

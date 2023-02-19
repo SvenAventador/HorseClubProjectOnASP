@@ -115,7 +115,7 @@ public class AdminController : Controller
     }
 
     [HttpPost]
-    public async Task<IActionResult> Edit(Tours tours)
+    public async Task<IActionResult> EditTour(Tours tours)
     {
         if (!ModelState.IsValid) return NotFound();
 

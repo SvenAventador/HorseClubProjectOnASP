@@ -129,3 +129,27 @@ body {
 .is-hidden {
     display: none;
 }
+
+.footer {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+
+.table tr:hover {
+    background: #0d6efd!important;
+    color: white !important;
+    cursor: pointer;
+}
+
+.table tr:hover a{
+    color: white !important;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
